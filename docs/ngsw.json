@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1594545082671,
+  "timestamp": 1594545393805,
   "index": "https://michoopl.github.io/cdv-pwa-angular/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://michoopl.github.io/cdv-pwa-angular/favicon.ico",
         "https://michoopl.github.io/cdv-pwa-angular/index.html",
-        "https://michoopl.github.io/cdv-pwa-angular/main-es2015.51798a7cc426cb773653.js",
-        "https://michoopl.github.io/cdv-pwa-angular/main-es5.51798a7cc426cb773653.js",
+        "https://michoopl.github.io/cdv-pwa-angular/main-es2015.9f156d75900465934ff7.js",
+        "https://michoopl.github.io/cdv-pwa-angular/main-es5.9f156d75900465934ff7.js",
         "https://michoopl.github.io/cdv-pwa-angular/manifest.webmanifest",
         "https://michoopl.github.io/cdv-pwa-angular/polyfills-es2015.f332a089ad1600448873.js",
         "https://michoopl.github.io/cdv-pwa-angular/polyfills-es5.177e85a9724683782539.js",
@@ -49,9 +49,9 @@
     "https://michoopl.github.io/cdv-pwa-angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://michoopl.github.io/cdv-pwa-angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://michoopl.github.io/cdv-pwa-angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://michoopl.github.io/cdv-pwa-angular/index.html": "6c1399d7d087236a901dd85911e2bb2ff21e2fa1",
-    "https://michoopl.github.io/cdv-pwa-angular/main-es2015.51798a7cc426cb773653.js": "4b0987d8bcc1f92eed1846188c34f6642f77f5ac",
-    "https://michoopl.github.io/cdv-pwa-angular/main-es5.51798a7cc426cb773653.js": "0492a4efe5d412200a1623690efaa7390c6d7570",
+    "https://michoopl.github.io/cdv-pwa-angular/index.html": "9d0c8bc6cbe84b7a3f2acc092d3e7679dc408e23",
+    "https://michoopl.github.io/cdv-pwa-angular/main-es2015.9f156d75900465934ff7.js": "69d4a4c065d4f699e720f46be6020f94dddbfb57",
+    "https://michoopl.github.io/cdv-pwa-angular/main-es5.9f156d75900465934ff7.js": "d1e142c23699c41e4a38e8416859342b8c8de6b3",
     "https://michoopl.github.io/cdv-pwa-angular/manifest.webmanifest": "ab352e2cc95fa847813776d1fd85e582a56397f5",
     "https://michoopl.github.io/cdv-pwa-angular/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://michoopl.github.io/cdv-pwa-angular/polyfills-es5.177e85a9724683782539.js": "8aa26ea87b9958c6bd13b7c257c0e9940438e684",
